@@ -1,0 +1,53 @@
+.c-heading {
+	color: #00ff00;
+  font-family: Georgia, Comic, serif;
+  font-style: oblique;
+}
+
+.super {
+  color: #cc32d1;
+}
+
+.o-image {
+	opacity: 1; 
+  display: block;
+  margin: auto;
+}
+
+.o-grid {
+	border: 2px groove #42f4d7;
+  border-radius: 15px;
+  padding: 10px;
+	background-color: white;
+	opacity: 0.8;
+  color: black;
+}
+
+iframe {
+  display: block;
+  margin: auto;
+}
+
+body {
+	background-image: url("../images/xbox.jpg");
+}
+
+.bottom, footer {
+	background-color: silver;
+	word-wrap: break-word;
+  color: black;
+  padding: 10px;
+  margin: 20px;
+  border: 1px azure solid;
+  border-radius: 21px 29px 24px 23px;
+}
+
+@media (max-width: 600px) {
+  iframe{
+    width: auto; 
+    max-width: 90%; 
+  }
+}
+.c-link.current {color: #00ff00;}
+
+.current { color: #00ff00; }
