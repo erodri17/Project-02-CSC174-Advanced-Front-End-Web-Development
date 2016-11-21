@@ -7,6 +7,43 @@
 
 <!--Picture slider goes here-->
 
+				<div id="slides">
+				    <div class="slides-container">
+						<img src="sliderImages/image1.jpg" width="1024" height="682" alt="video game 1">
+						<img src="sliderImages/image2.jpg" width="1024" height="682" alt="video game 2">
+						<img src="sliderImages/image3.jpg" width="1024" height="682" alt="video game 3">
+						<img src="sliderImages/image4.jpg" width="1024" height="682" alt="video game 4">
+				    </div>
+
+				    <nav class="slides-navigation">
+				      <a href="#" class="next">Next</a>
+				      <a href="#" class="prev">Previous</a>
+				    </nav>
+				  </div>
+
+				  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+				  <script src="js/jquery.easing.1.3.js"></script>
+				  <script src="js/jquery.animate-enhanced.min.js"></script>
+				  <script src="js/jquery.superslides.js" type="text/javascript" charset="utf-8"></script>
+				  <script>
+				    $(function() {
+				      $('#slides').superslides({
+				        hashchange: true,
+				        play: 4500
+				      });
+
+				      $('#slides').on('mouseenter', function() {
+				        $(this).superslides('stop');
+				        console.log('Stopped')
+				      });
+				      $('#slides').on('mouseleave', function() {
+				        $(this).superslides('start');
+				        console.log('Started')
+				      });
+				    });
+				  </script>
+
+				  <!--
 				<div class="fotorama" data-autoplay="2000">
 				<img src="sliderImages/image1.png" alt="video game 1">
 				<img src="sliderImages/image2.png" alt="video game 2">
@@ -17,7 +54,7 @@
 				<img src="sliderImages/image7.png" alt="video game 7">
 				<img src="sliderImages/image8.png" alt="video game 8">
 				</div>
-
+				-->
     <!-- this class will put article and aside side by side -->
     <div class="o-grid o-grid--small-full o-grid--medium-full o-grid--large-full">
 <!--Article -->
