@@ -5,6 +5,8 @@
 
  <?php include "inc/nav.inc"; ?>
 
+  <body class="parallax">
+
 <!--Picture slider goes here-->
 
 				<div id="slides">

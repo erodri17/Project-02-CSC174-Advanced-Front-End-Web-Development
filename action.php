@@ -4,6 +4,8 @@
 				
  <?php include "inc/nav.inc"; ?>
 
+  <body class="parallax">
+
     <!-- this class will put article and aside side by side -->
     <div class="o-grid o-grid--small-full o-grid--medium-full o-grid--large-full">
 		

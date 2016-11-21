@@ -2,6 +2,8 @@
 
 <?php include "inc/nav.inc"; ?>
 
+ <body class="parallax">
+
 <div class="o-grid o-grid--small-full o-grid--medium-full o-grid--large-full">
 
 <div class="u-center-block">
