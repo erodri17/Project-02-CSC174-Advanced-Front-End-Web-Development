@@ -1,3 +1,4 @@
+<div class="fluid-container">
 <ul class="topnav" id="myTopnav">
   <li><a class="active" href="index.php">Home</a></li>
   <li><a href="action.php">Action Video Games</a></li>
@@ -7,7 +8,7 @@
     <a href="javascript:void(0);" style="font-size:15px;" onclick="myFunction()">☰</a>
   </li>
 </ul>
-
+</div>
 <script>
 function myFunction() {
     var x = document.getElementById("myTopnav");
@@ -17,6 +18,7 @@ function myFunction() {
         x.className = "topnav";
     }
 }
+
 </script>
 
 

@@ -206,6 +206,8 @@ Source: Avery, Justin. "MEDIA QUERIES FOR COMMON DEVICE BREAKPOINTS." ResposiveD
     background-size: cover;
 }
 
+/*Hamburger Menu*/
+
 ul.topnav {
   list-style-type: none;
   margin: 0;
@@ -253,4 +255,10 @@ ul.topnav li.icon {display: none;}
     display: block;
     text-align: left;
   }
+}
+
+.fluid-container{
+  z-index: 5;
+  position:fixed;
+  width: 100%;
 }
