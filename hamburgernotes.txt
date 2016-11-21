@@ -1,0 +1,12 @@
+<body>
+
+<ul class="topnav" id="myTopnav">
+  <li><a class="active" href="#home"></a></li>
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a class="active" href="#news">Action Video Games</a></li>
+  <li><a class="active" href="#contact">Role Playing Video Games</a></li>
+  <li><a class="active" href="#about">Simulation Video Games</a></li>
+  <li class="icon">
+    <a href="javascript:void(0);" style="font-size:15px;" onclick="myFunction()">?</a>
+  </li>
+</ul>
