@@ -31,9 +31,16 @@ iframe {
   margin: auto;
 }
 
+/*
 body {
-	background-image: url("../images/xbox.jpg");
+	background-image: url("../images/background.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+  background-size: 100%;
 }
+
+*/
 
 .bottom, footer {
 	background-color: silver;
@@ -183,3 +190,18 @@ Source: Avery, Justin. "MEDIA QUERIES FOR COMMON DEVICE BREAKPOINTS." ResposiveD
 .c-link.current {color: #00ff00;}
 
 .current { color: #00ff00; }
+
+/*Paralax*/
+
+.parallax { 
+    /* The image used */
+    background-image: url("../images/background.jpg");
+
+    height: 100%;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
