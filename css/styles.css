@@ -1,16 +1,7 @@
-/*
-Name: TEAM02-Team Adonding Poncho
-Project 2: Improving Customer Website
-Institution: University of Rochester
-Professor Kostin
-Semester: Fall 2016
-CSC174: Advanced Front End Deveploment
-Team Members: Evan Basta, Joshua Anes, Ethan Pupkin, Rayan Ifthikhar
-All Rights Reserved
-*/
 
-/*This is styles.css where we made most of the changes as the other files are
-just pre-made libraries. Therefore almost all customization happens in this file.*/
+
+
+
 
 /*comments in CSS*/
 
@@ -60,8 +51,9 @@ but is no longer in use. It is kept for future reference, in case any further ch
 background-color: silver;
 word-wrap: break-word;
 color: black;
-
-
+padding: 10px;
+margin: 20px;
+border: 1px azure solid;
 border-radius: 21px 29px 24px 23px;
 }
 

@@ -98,16 +98,11 @@ console.log('Started')
 <!--This section is a div to put the images of the game controller and call of duty game to the right of the text under the "About Video Games" section"-->
 <div class="o-grid__cell o-grid__cell--width 30">
 <figure>
-<br>
-<br>
 	<img class="o-image" src="images/controller.jpg" alt="A video game controller">
 </figure>
-
 <div class="c-card__content c-card__content--divider">SNES Video Game Controller. <a class="c-link" href="https://en.wikipedia.org/wiki/Video_game#/media/File:SNES-Controller.jpg"> Source</a></div>
 
 <figure>
-<br>
-<br>
 	<img class="o-image" src="images/iw.jpg" alt="Infinite Warfare">
 </figure>
 </div> <!--End: <div class="o-grid__cell o-grid__cell--width 30"> -->
@@ -132,10 +127,6 @@ console.log('Started')
 
 	<div class= "o-grid__ cell o-grid__ cell-- width-30">
 		<figure>
-
-			<br>
-			<br>
-			<br>
 			<img class="o-image" src="images/mwr.jpg" alt="Modern Warfare Remastered">
 		</figure>
 	</div> <!-- o-grid 30-->
@@ -169,43 +160,34 @@ console.log('Started')
 		<p>Casual games derive their name from their ease of accessibility, simple to understand gameplay and quick to grasp rule sets. Additionally, casual games frequently support the ability to jump in and out of play on demand. Casual games as a format existed long before the term was coined and include video games such as Solitaire or Minesweeper which can commonly be found pre-installed with many versions of the Microsoft Windows operating system. Examples of genres within this category are match three, hidden object, time management, puzzle or many of the tower defense style games. Casual games are generally available through app stores and online retailers such as PopCap, Zylom and GameHouse or provided for free play through web portals such as Newgrounds. While casual games are most commonly played on personal computers, phones or tablets, they can also be found on many of the on-line console system download services (e.g., the PlayStation Network, WiiWare or Xbox Live).</p>
 		<br>
 		<br>
-			<h3 class="c-heading c-heading--large">Serious Games</h3>
+	</div><!--End:<div class="o-grid__cell o-grid__cell--width-70">-->
+
+	<div class= "o-grid__cell o-grid__cell--width-30">
+		<figure>
+			<img class="o-image" src="images/bf1.jpg" alt="Battlefield One">
+		</figure>
+	</div><!--<div class= "o-grid__cell o-grid__cell--width-30">-->
+</div><!--<div class="o-grid">-->
+<!--End-Block: Classifications-->
+
+<!--Block: Serious Games-->
+	<div class= "o-grid">
+	<div class="o-grid__cell o-grid__ cell--width-70">
+		<h3 class="c-heading c-heading--large">Serious Games</h3>
 
 		<p>Serious games are games that are designed primarily to convey information or a learning experience of some sort to the player. Some serious games may even fail to qualify as a video game in the traditional sense of the term. Educational software does not typically fall under this category (e.g., touch typing tutors, language learning, etc.) and the primary distinction would appear to be based on the title's primary goal as well as target age demographics. As with the other categories, this description is more of a guideline than a rule.</p>
 
 		<p>Serious games are games generally made for reasons beyond simple entertainment and as with the core and casual games may include works from any given genre, although some such as exergames, educational games, or propaganda games may have a higher representation in this group due to their subject matter. These games are typically designed to be played by professionals as part of a specific job or for skill set improvement. They can also be created to convey social-political awareness on a specific subject.</p>
 		<br>
 		<br>
-	</div><!--End:<div class="o-grid__cell o-grid__cell--width-70">-->
-
-	<div class= "o-grid__cell o-grid__cell--width-30">
+	</div><!--End: <div class="o-grid__cell o-grid__ cell--width-70">-->
+	<div class="o-grid__cell o-grid__cell--width-30">
 		<figure>
-		<br>
-		<br>
-		<br>
-		<br>
-			<img class="o-image" src="images/bf1.jpg" alt="Battlefield One">
-		</figure>
-
-		<figure>
-
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-
-
 			<img class="o-image" src="images/fh3.jpg" alt="Forza Horizon 3">
 		</figure>
-
-	</div><!--<div class= "o-grid__cell o-grid__cell--width-30">-->
-</div><!--<div class="o-grid">-->
-<!--End-Block: Classifications-->
-
-
+	</div><!--<div class="o-grid__cell o-grid__cell--width-30">-->
+</div><!--<div class= "o-grid">-->
+<!--End-Block: Serious Games-->
 
 <!--Sixth block: Platforms-->
 <div class="o-grid">
@@ -244,15 +226,9 @@ console.log('Started')
 			<br>
 		</div><!--<div class="o-grid__cell o-grid__ cell--width-70">-->
 		<div class="o-grid__cell o-grid__cell--width-30">
-		<br>
-				<br>
-				<br>
-				<br>
 			<div class="c-card c-card--higher c-card--primary">
-
 				<div class="c-card__content c-card__content--divider">Example of Programming Code. <a class="c-link" href="http://throwingdigitalsheep.com/video-game-development-hard-with-sidenote-easy/"> Source</a></div>
 				<figure>
-
 					<img class="o-image" src="images/programming.png" alt="programming code">
 				</figure>
 			</div>
@@ -284,11 +260,6 @@ console.log('Started')
 		</div><!--<div class="o-grid__cell o-grid__cell--width-70">-->
 		<div class="o-grid__cell o-grid__cell--width-30">
 			<figure>
-			<br>
-			<br>
-			<br>
-
-			<br>
 				<img class="o-image" src="images/wd2.jpg" alt="Watch Dogs 2">
 			</figure>
 		</div><!--<div class="o-grid__cell o-grid__cell--width-30">-->
@@ -313,7 +284,6 @@ console.log('Started')
 <footer>
 	<div class="o-grid">
 	<h2 class="c-heading c-heading--xlarge">Works Cited</h2>
-	<br>
 	<ul class="c-list">
 		<li class="c-list__item">"Video Game". Wikipedia. 20 September 2016. Web. 26 September 2016. <a class="c-link" href="https://en.wikipedia.org/wiki/Video_game">https://en.wikipedia.org/wiki/Video_game</a>.</li>
 		<li class="c-list__item">"Can Playing Video Games Make you Smarter?" CBS News. 12 November 2014. Web. 26 September 2016. <a class="c-link" href="http://www.cbsnews.com/news/playing-video-games-could-make-you-smarter/">http://www.cbsnews.com/news/playing-video-games-could-make-you-smarter/</a>.</li>
@@ -324,12 +294,11 @@ console.log('Started')
 		<li class="c-list__item"><a class="c-link" href="https://www.youtube.com/watch?v=2ISYN1AshZY">https://www.youtube.com/watch?v=2ISYN1AshZY</a></li>
 		<li class="c-list__item"><a class="c-link" href="https://www.youtube.com/watch?v=hh9x4NqW0Dw">https://www.youtube.com/watch?v=hh9x4NqW0Dw</a></li>
 	</ul>
-	<br>
 </footer>
 <!--End: Footer-->
-</div><!--End:<div class="o-grid">-->
 
 <!--Footer include file-->
 <?php include "inc/footer.inc"; ?>
 <!--End: Footer include file-->
 
+</div><!--End:<div class="o-grid">-->
