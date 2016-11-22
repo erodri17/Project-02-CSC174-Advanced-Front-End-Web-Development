@@ -1,0 +1,14 @@
+Hey guys, great work so far. Just a few things left to do. 
+1. Ethan & Josh
+a. Did you guys agree to not put the colophon in the nav bar? If so cool, otherwise please put it in there
+b. Can you guys also implement the “active” class javascript and css implementation from our project into this one? That’d be fantastic. 
+c. Also, you need to put a margin of 51.8 after the nav bar. I did not look up how to do this, but I’d consider at this point just hard coding in some css directly targeting the nav bar. 
+d. The hamburger menu looks great so far. Just know that the animation isn’t perfect. Simulation Video Games still stacks underneath the rest before the hamburger menu implements
+2. Rayan
+a. Changes are looking okay so far. The way you have the grid set up, elements are not stacking properly when things shrink down to a certain size. Look up “Responsible Suffixes” in the css documentation under grid. You can find a solution there. 
+b. For the images, blaze doesn’t offer much support. You need to find a solution to shrink down the images. You may be able to do this through simple html, but it may be better to find a css solution for all the images. These images also need to be responsive when the webpage shrinks and expands
+c. Lastly, remove the outer box around the body elements. You can keep the inner box with the transparency, just change the god awful color of the border to black or make a transparent color. 
+3. Elmer
+a. Can you work on getting better fonts for the text? This also applies to the nav bar if you see fit
+b. Change the colors of the headers and make things better structured within the grid system. Don’t work on the grid system itself, but center text, apply margins etc. as you see fit for the text and pictures
+c. Apply these same things to the footer. Also work on the color of the transparency and the outline of the transparency. 
