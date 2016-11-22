@@ -1,3 +1,19 @@
+<!--
+Name: TEAM02-Team Adonding Poncho
+Project 2: Improving Customer Website
+Institution: University of Rochester
+Professor Kostin
+Semester: Fall 2016
+CSC174: Advanced Front End Deveploment
+Team Members: Evan Basta, Joshua Anes, Ethan Pupkin, Rayan Ifthikhar
+All Rights Reserved
+-->
+
+<!--Description-->
+
+<!--The purpose of this assignment if for Team02-Team Adonding Poncho to make changes to the customer website as stated on our proposal. The customer on this team is Team10-One Man Army. The orginal source for this project can be found in the following repository: https://github.com/J-Zhang104/CSC174-Group-10 -->
+
+
 <?php include "inc/head.inc"; ?>
 
 <?php include "inc/nav.inc"; ?>
