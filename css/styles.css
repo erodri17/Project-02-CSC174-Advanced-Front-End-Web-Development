@@ -1,97 +1,102 @@
+
+
+
+
+
 /*comments in CSS*/
 
-
 .c-heading {
-	color: #00ff00;
-  font-family: Georgia, Comic, serif;
-  font-style: oblique;
+color: #093145;
+font-family: "Courier", Monospace, "Lucida Console";
+font-style: bold;
 }
-
 .super {
-  color: #cc32d1;
+color: #cc32d1;
 }
-
 .o-image {
-	opacity: 1;
-  display: block;
-  margin: auto;
+opacity: 1;
+display: block;
+margin: auto;
 }
-
 .o-grid {
-	border: 2px groove #42f4d7;
-  border-radius: 15px;
-  padding: 10px;
-	background-color: white;
-	opacity: 0.8;
-  color: black;
+border: 2px groove #42f4d7;
+border-radius: 15px;
+padding: 10px;
+background-color: white;
+opacity: 0.8;
+color: black;
 }
-
 iframe {
-  display: block;
-  margin: auto;
+display: block;
+margin: auto;
 }
+/* The section below has been commented out as it was part of the original code in the "styles.css"
+but is no longer in use. It is kept for future reference, in case any further changes need to be made. */
 
 /*
 body {
-	background-image: url("../images/background.jpg");
-  background-repeat: no-repeat;
-  background-position: right top;
-  background-attachment: fixed;
-  background-size: 100%;
+background-image: url("../images/background.jpg");
+background-repeat: no-repeat;
+background-position: right top;
+background-attachment: fixed;
+background-size: 100%;
 }
-
 */
+
+/* The section above has been commented out as it was part of the original code in the "styles.css"
+but is no longer in use. It is kept for future reference, in case any further changes need to be made. */
+
 
 .bottom, footer {
-	background-color: silver;
-	word-wrap: break-word;
-  color: black;
-  padding: 10px;
-  margin: 20px;
-  border: 1px azure solid;
-  border-radius: 21px 29px 24px 23px;
+background-color: silver;
+word-wrap: break-word;
+color: black;
+padding: 10px;
+margin: 20px;
+border: 1px azure solid;
+border-radius: 21px 29px 24px 23px;
 }
-/* Original @media code */
 
+
+/* The section below has been commented out as it was part of the original code in the "styles.css"
+but is no longer in use. It is kept for future reference, in case any further changes need to be made. */
+
+/* Original @media code */
 /*
 @media (max-width: 600px) {
-  iframe{
-    width: auto;
-    max-width: 90%;
-  }
+iframe{
+width: auto;
+max-width: 90%;
+}
 }
 */
-
 /* End: Original @media code */
+
+/* The section above has been commented out as it was part of the original code in the "styles.css"
+but is no longer in use. It is kept for future reference, in case any further changes need to be made. */
 
 
 /* Custom @media code, so the website is responsive to all types of devices */
-
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 /* Styles */
 }
-
 /* Smartphones (landscape) ----------- */
 @media only screen and (min-width : 321px) {
 /* Styles */
 }
-
 /* Smartphones (portrait) ----------- */
 @media only screen and (max-width : 320px) {
 /* Styles */
 }
-
 /* iPads (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
 /* Styles */
 }
-
 /* iPads (landscape) ----------- */
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
 /* Styles */
 }
-
 /* iPads (portrait) ----------- */
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
 /* Styles */
@@ -102,7 +107,6 @@ iPad 3
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
 /* Styles */
 }
-
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
 /* Styles */
 }
@@ -110,155 +114,122 @@ iPad 3
 @media only screen  and (min-width : 1224px) {
 /* Styles */
 }
-
 /* Large screens ----------- */
 @media only screen  and (min-width : 1824px) {
 /* Styles */
 }
-
 /* iPhone 4 ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
 /* Styles */
 }
-
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
 /* Styles */
 }
-
 /* iPhone 5 ----------- */
 @media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
 /* Styles */
 }
-
 @media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
 /* Styles */
 }
-
 /* iPhone 6 ----------- */
 @media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
 /* Styles */
 }
-
 @media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
 /* Styles */
 }
-
 /* iPhone 6+ ----------- */
 @media only screen and (min-device-width: 414px) and (max-device-height: 736px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
 /* Styles */
 }
-
 @media only screen and (min-device-width: 414px) and (max-device-height: 736px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
 /* Styles */
 }
-
 /* Samsung Galaxy S3 ----------- */
 @media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
 /* Styles */
 }
-
 @media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
 /* Styles */
 }
-
 /* Samsung Galaxy S4 ----------- */
 @media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
 /* Styles */
 }
-
 @media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
 /* Styles */
 }
-
 /* Samsung Galaxy S5 ----------- */
 @media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
 /* Styles */
 }
-
 @media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
 /* Styles */
 }
-
 /*
 Source: Avery, Justin. "MEDIA QUERIES FOR COMMON DEVICE BREAKPOINTS." ResposiveDesign.is. N.p., n.d. Web. 20 Nov. 2016. <https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints>.
 */
-
 /* End: Custom @media code, so the website is responsive to all types of devices */
-
-
-
 .c-link.current {color: #00ff00;}
-
 .current { color: #00ff00; }
-
 /*Paralax*/
-
-.parallax { 
-    /* The image used */
-    background-image: url("../images/background.jpg");
-
-    height: 100%;
-
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+.parallax {
+/* The image used */
+background-image: url("../images/background.jpg");
+height: 100%;
+/* Create the parallax scrolling effect */
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
 }
-
-/*Hamburger Menu*/
-
+/* Hamburger Menu ------------*/
 ul.topnav {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #333;
 }
-
 ul.topnav li {float: left;}
-
 ul.topnav li a {
-  display: inline-block;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  transition: 0.3s;
-  font-size: 17px;
+display: inline-block;
+color: #f2f2f2;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+transition: 0.3s;
+font-size: 17px;
 }
-
 ul.topnav li a:hover {background-color: #555;}
-
 ul.topnav li.icon {display: none;}
-
 @media screen and (max-width:680px) {
-  ul.topnav li:not(:first-child) {display: none;}
-  ul.topnav li.icon {
-    float: right;
-    display: inline-block;
-  }
+ul.topnav li:not(:first-child) {display: none;}
+ul.topnav li.icon {
+float: right;
+display: inline-block;
 }
-
+}
 @media screen and (max-width:680px) {
-  ul.topnav.responsive {position: relative;}
-  ul.topnav.responsive li.icon {
-    position: absolute;
-    right: 0;
-    top: 0;
-  }
-  ul.topnav.responsive li {
-    float: none;
-    display: inline;
-  }
-  ul.topnav.responsive li a {
-    display: block;
-    text-align: left;
-  }
+ul.topnav.responsive {position: relative;}
+ul.topnav.responsive li.icon {
+position: absolute;
+right: 0;
+top: 0;
 }
-
+ul.topnav.responsive li {
+float: none;
+display: inline;
+}
+ul.topnav.responsive li a {
+display: block;
+text-align: left;
+}
+}
 .fluid-container{
-  z-index: 5;
-  position:fixed;
-  width: 100%;
+z-index: 5;
+position:fixed;
+width: 100%;
 }
+/* End: Hamburger Menu ------------*/
