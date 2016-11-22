@@ -23,7 +23,7 @@ All Rights Reserved
 <!--End: Link to read Google font used in the CSS "Source Code Pro"-->
 
 <!--Navigation -->
-	?php include "inc/nav.inc"; ?>
+	<?php include "inc/nav.inc"; ?>
 <!--End: Navigation -->
 
 <!--Image Slider-->
