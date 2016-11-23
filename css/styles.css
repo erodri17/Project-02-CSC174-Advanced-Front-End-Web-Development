@@ -20,7 +20,7 @@ margin: auto;
 }
 .o-grid {
 border: 2px groove #42f4d7;
-border-radius: 15px;
+border-radius: 15px; 
 padding: 10px;
 background-color: white;
 opacity: 0.8;

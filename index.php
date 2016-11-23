@@ -81,8 +81,8 @@ console.log('Started')
 
 <div class="o-container o-container--large">
 <!--Block: About Video Games-->
-<div class="o-grid">
-<div class= "o-grid__cell o-grid__cell--width-70">
+<div class="o-grid o-grid--wrap o-grid--demo">
+<div class= "o-grid__cell o-grid__cell--width-70 o-grid__cell--width-33@small">
 
 <h2 class="c-heading c-heading--xlarge">About Video Games</h2>
 
@@ -96,7 +96,7 @@ console.log('Started')
 </div><!--End: <div class= "o-grid__cell o-grid__cell--width-70">  -->
 
 <!--This section is a div to put the images of the game controller and call of duty game to the right of the text under the "About Video Games" section"-->
-<div class="o-grid__cell o-grid__cell--width 30">
+<div class="o-grid__cell o-grid__cell--width 30 o-grid__cell--width-33@small">
 <figure>
 	<img class="o-image" src="images/controller.jpg" alt="A video game controller">
 </figure>
@@ -113,8 +113,8 @@ console.log('Started')
 <!--End-Block: About Video Games-->
 
 <!--Block: Genres-->
-<div class= "o-grid">
-<div class= "o-grid__cell o-grid__cell--width-70">
+<div class= "o-grid o-grid--wrap o-grid--demo">
+<div class= "o-grid__cell o-grid__cell--width-70 o-grid__cell--width-33@small">
 	<h2 class="c-heading c-heading--xlarge">Genres</h2>
 	<p>A video game, like most other forms of media, may be categorized into genres. Video game genres are used to categorize video games based on their gameplay interaction rather than visual or narrative differences. A video game genre is defined by a set of gameplay challenges and are classified independent of their setting or game-world content, unlike other works of fiction such as films or books. For example, a shooter game is still a shooter game, regardless of whether it takes place in a fantasy world or in outer space.</p>
 
@@ -125,7 +125,7 @@ console.log('Started')
 	</div> <!-- End: <div class= "o-grid__cell o-grid__cell--width-70">-->
 <!--This section is a div to put the images of the game controller and call of duty game to the right of the text under the "About Video Games" section"-->
 
-	<div class= "o-grid__ cell o-grid__ cell-- width-30">
+	<div class= "o-grid__ cell o-grid__ cell-- width-30 o-grid__cell--width-33@small">
 		<figure>
 			<img class="o-image" src="images/mwr.jpg" alt="Modern Warfare Remastered">
 		</figure>
@@ -136,8 +136,8 @@ console.log('Started')
 <!--End-Block: Genres-->
 
 <!--Block: History-->
-<div class= "o-grid">
-<div class= "o-grid__cell o-grid__cell--width-70">
+<div class= "o-grid o-grid--wrap o-grid--demo">
+<div class= "o-grid__cell o-grid__cell--width-70 o-grid__cell--width-33@small">
 		<h2 class="c-heading c-heading--xlarge">History</h2>
 
 		<p>Early games used interactive electronic devices with various display formats. The earliest example is from 1947—a "Cathode ray tube Amusement Device" was filed for a patent on 25 January 1947, by Thomas T. Goldsmith Jr. and Estle Ray Mann, and issued on 14 December 1948, as U.S. Patent 2455992. Inspired by radar display technology, it consisted of an analog device that allowed a user to control a vector-drawn dot on the screen to simulate a missile being fired at targets, which were drawings fixed to the screen. Other early examples include: The Nimrod computer at the 1951 Festival of Britain; OXO a tic-tac-toe Computer game by Alexander S. Douglas for the EDSAC in 1952; Tennis for Two, an electronic interactive game engineered by William Higinbotham in 1958; Spacewar!, written by MIT students Martin Graetz, Steve Russell, and Wayne Wiitanen's on a DEC PDP-1 computer in 1961; and the hit ping pong-style Pong, a 1972 game by Atari. Each game used different means of display: NIMROD used a panel of lights to play the game of Nim, OXO used a graphical display to play tic-tac-toe Tennis for Two used an oscilloscope to display a side view of a tennis court, and Spacewar! used the DEC PDP-1's vector display to have two spaceships battle each other.</p>
@@ -152,8 +152,8 @@ console.log('Started')
 <!--End-Block: History-->
 
 <!--Block: Classifications-->
-	<div class="o-grid">
-	<div class="o-grid__cell o-grid__cell--width-70">
+	<div class="o-grid o-grid--wrap o-grid--demo">
+	<div class="o-grid__cell o-grid__cell--width-70 o-grid__cell--width-33@small">
 		<h2 class="c-heading c-heading--xlarge">Classifications</h2>
 
 		<h3 class="c-heading c-heading--large">Casual games</h3>
@@ -162,7 +162,7 @@ console.log('Started')
 		<br>
 	</div><!--End:<div class="o-grid__cell o-grid__cell--width-70">-->
 
-	<div class= "o-grid__cell o-grid__cell--width-30">
+	<div class= "o-grid__cell o-grid__cell--width-30 o-grid__cell--width@33small">
 		<figure>
 			<img class="o-image" src="images/bf1.jpg" alt="Battlefield One">
 		</figure>
@@ -171,8 +171,8 @@ console.log('Started')
 <!--End-Block: Classifications-->
 
 <!--Block: Serious Games-->
-	<div class= "o-grid">
-	<div class="o-grid__cell o-grid__ cell--width-70">
+	<div class= "o-grid o-grid--wrap o-grid--demo">
+	<div class="o-grid__cell o-grid__ cell--width-70 o-grid__cell--width-33@small">
 		<h3 class="c-heading c-heading--large">Serious Games</h3>
 
 		<p>Serious games are games that are designed primarily to convey information or a learning experience of some sort to the player. Some serious games may even fail to qualify as a video game in the traditional sense of the term. Educational software does not typically fall under this category (e.g., touch typing tutors, language learning, etc.) and the primary distinction would appear to be based on the title's primary goal as well as target age demographics. As with the other categories, this description is more of a guideline than a rule.</p>
@@ -181,7 +181,7 @@ console.log('Started')
 		<br>
 		<br>
 	</div><!--End: <div class="o-grid__cell o-grid__ cell--width-70">-->
-	<div class="o-grid__cell o-grid__cell--width-30">
+	<div class="o-grid__cell o-grid__cell--width-30 o-grid__cell--width-33@small">
 		<figure>
 			<img class="o-image" src="images/fh3.jpg" alt="Forza Horizon 3">
 		</figure>
@@ -190,8 +190,8 @@ console.log('Started')
 <!--End-Block: Serious Games-->
 
 <!--Sixth block: Platforms-->
-<div class="o-grid">
-	<div class="o-grid__ cell o-grid__cell--width-70">
+<div class="o-grid o-grid--wrap o-grid--demo">
+	<div class="o-grid__ cell o-grid__cell--width-70 o-grid__cell--width-33@small">
 		<h3 class="c-heading c-heading--large">Platforms</h3>
 
 		<p>The term "platform" refers to the specific combination of electronic components or computer hardware which, in conjunction with software, allows a video game to operate. The term "system" is also commonly used. The distinctions below are not always clear and there may be games that bridge one or more platforms. In addition to personal computers, there are other devices which have the ability to play games but are not dedicated video game machines, such as smartphones, PDAs and graphing calculators.</p>
@@ -210,13 +210,13 @@ console.log('Started')
 
 
 
-	<div class="o- grid__cell o-grid__cell--width-30">
+	<div class="o- grid__cell o-grid__cell--width-30 o-grid__cell--width-33@small">
 	</div><!--<div class="o- grid__cell o-grid__cell--width-30">-->
 	</div> <!--End: <div class="o-grid">-->
 <!--End: Sixth block: Platforms-->
 <!--Block: Video Game Programming-->
-	<div class= "o-grid">
-		<div class="o-grid__cell o-grid__cell--width-70">
+	<div class= "o-grid o-grid--wrap o-grid--demo">
+		<div class="o-grid__cell o-grid__cell--width-70 o-grid__cell--width33@small">
 		<h2 class="c-heading c-heading--xlarge">Video Game Programming</h2>
 
 			<p>Video game development and authorship, much like any other form of entertainment, is frequently a cross-disciplinary field. Video game developers, as employees within this industry are commonly referred, primarily include programmers and graphic designers. Over the years this has expanded to include almost every type of skill that one might see prevalent in the creation of any movie or television program, including sound designers, musicians, and other technicians; as well as skills that are specific to video games, such as the game designer. All of these are managed by producers. </p>
@@ -225,7 +225,7 @@ console.log('Started')
 			<br>
 			<br>
 		</div><!--<div class="o-grid__cell o-grid__ cell--width-70">-->
-		<div class="o-grid__cell o-grid__cell--width-30">
+		<div class="o-grid__cell o-grid__cell--width-30 o-grid__cell--width-33@small">
 			<div class="c-card c-card--higher c-card--primary">
 				<div class="c-card__content c-card__content--divider">Example of Programming Code. <a class="c-link" href="http://throwingdigitalsheep.com/video-game-development-hard-with-sidenote-easy/"> Source</a></div>
 				<figure>
@@ -239,9 +239,9 @@ console.log('Started')
 
 <!--End-Block: Video Game Programming-->
 <!--Block: Can playing video game make you smarter?-->
-	<div class="o-grid">
+	<div class="o-grid o-grid--wrap o-grid--demo">
 		<!--From: http://www.cbsnews.com/news/playing-video-games-could-make-you-smarter/  -->
-		<div class="o-grid__cell o-grid__cell--width-70">
+		<div class="o-grid__cell o-grid__cell--width-70 o-grid__cell--width-33@small">
 			<h2 class="c-heading c-heading--xlarge">Can playing video games make you smarter?</h2>
 
 			<p>Taking out terrorists or shooting up zombies in video games could be more than just an adrenaline rush. It may actually make you smarter.</p>
@@ -258,7 +258,7 @@ console.log('Started')
 			<br>
 			<br>
 		</div><!--<div class="o-grid__cell o-grid__cell--width-70">-->
-		<div class="o-grid__cell o-grid__cell--width-30">
+		<div class="o-grid__cell o-grid__cell--width-30 o-grid__cell--width-33@small">
 			<figure>
 				<img class="o-image" src="images/wd2.jpg" alt="Watch Dogs 2">
 			</figure>

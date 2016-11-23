@@ -27,19 +27,19 @@ All Rights Reserved
 <<<<<<< HEAD
 		
 <!--Article -->				
-                <div class="o-grid">
-				<div class= "o-grid__cell o-grid__cell--width-70">
+                <div class="o-grid o-grid--wrap o-grid--demo">
+				<div class= "o-grid__cell o-grid__cell--width-70 o-grid__cell--width-33@small">
 	<!-- From: https://en.wikipedia.org/wiki/Action_game -->
 						 <h2 class="c-heading c-heading--xlarge">Action Video Games</h2>
 				
 							 <p>The action game is a video game genre that emphasizes physical challenges, including hand–eye coordination and reaction-time. The genre includes diverse subgenres such as fighting games, shooter games and platform games which are widely considered the most important action games, though some real-time strategy games are also considered to be action games.</p>	
 							 <p>In an action game, the player typically controls the avatar of a protagonist. The avatar must navigate a level, collecting objects, avoiding obstacles, and battling enemies with various attacks. At the end of a level or group of levels, the player must often defeat a large boss enemy that is larger and more challenging than other enemies. Enemy attacks and obstacles deplete the avatar's health and lives, and the game is over when the player runs out of lives. Alternatively, the player wins the game by finishing a sequence of levels. But some action games, usually arcade games, are unbeatable and have an indefinite number of levels; and the player's only goal is to maximize their score by collecting objects and defeating enemies.</p>	
 							</div>
-							<div class="o-grid__cell o-grid__cell--width-30">
+							<div class="o-grid__cell o-grid__cell--width-30 o-grid__cell--width-33@small">
 
 
 <!--Article -->
-                <article class="o-grid__cell">
+                <article class="o-grid__cell o-grid__cell--width-33@small">
 
 
 	<!-- From: https://en.wikipedia.org/wiki/Action_game -->
@@ -59,8 +59,8 @@ All Rights Reserved
 				</div>
 							 
 							
-							 <div class="o-grid">
-							 	<div class= "o-grid__cell o-grid__cell--width-70">
+							 <div class="o-grid o-grid--wrap o-grid--demo">
+							 	<div class= "o-grid__cell o-grid__cell--width-70 o-grid__cell--width-33@small">
 						<h2 class="c-heading c-heading--xlarge">Defining elements</h2>
 						
 							<p>The action genre includes any game where the majority of challenges are physical tests of skill. Action games can sometimes incorporate other challenges such as races, puzzles, or collecting objects, but they are not central to the genre. Players may also encounter tactical and exploration challenges, but these games first-and-foremost require high reaction speed and good hand–eye coordination. The player is often under time pressure, and there is not enough time for complex strategic planning. In general, faster action games are more challenging. Action games may sometimes involve puzzle solving, but they are usually quite simple because the player is under immense time pressure.</p>	
@@ -69,8 +69,8 @@ All Rights Reserved
 							</div>
 							</div>								 
 				
-							 <div class="o-grid">
-							 <div class="o-grid__cell o-grid__cell--width-70">
+							 <div class="o-grid o-grid--wrap o-grid--demo">
+							 <div class="o-grid__cell o-grid__cell--width-70 o-grid__cell--width-33@small">
 						 <h2 class="c-heading c-heading--xlarge">Game design</h2>
 
 							<h3 class="c-heading c-heading--large">Levels</h3>
@@ -101,7 +101,7 @@ All Rights Reserved
 
 
 
-								<div class="o-grid__cell o-grid__cell--width-30">
+								<div class="o-grid__cell o-grid__cell--width-30 o-grid__cell--width-33@small">
 									<figure>					 
 						          	<img class="csgo" src="images/csgo.jpg" alt="csgo hud"> 
 						    	 </figure>
@@ -112,8 +112,8 @@ All Rights Reserved
 
 <!-- Aside -->
 			<!-- begin section 4-->
-                <div class="o-grid">
-				<div class= "o-grid__cell">
+                <div class="o-grid o-grid--wrap o-grid--demo">
+				<div class= "o-grid__cell o-grid__cell--width-33@small">
 							<!--From: https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)  -->
 				             <h2 class="c-heading c-heading--xlarge">Call of Duty</h2>
 							 
@@ -127,8 +127,8 @@ All Rights Reserved
 			    </article>
 
 <!-- Aside -->
-						<div class="o-grid">
-                <div class="o-grid__cell o-grid__cell--with70">
+						<div class="o-grid o-grid--wrap o-grid--demo">
+                <div class="o-grid__cell o-grid__cell--width70 o-grid__cell--width-33@small">
 
 							<!--From: https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)  -->
 				             <h2 class="c-heading c-heading--xlarge">Call of Duty</h2>
@@ -147,7 +147,7 @@ All Rights Reserved
 							 <p>As the focus of the game is on simulation of the actual battlefield, the gameplay differs from many single-player shooters of the time. The player moves in conjunction with allied soldiers rather than alone; allied soldiers will assist the player in defeating enemy soldiers and advancing however the player is given charge of completing certain objectives. The game places heavy emphasis on usage of cover, suppressive fire, and grenades. AI-controlled soldiers will take cover behind walls, barricades, and other obstacles when available.</p>
 
 							  </div>
-							  <div class="o-grid__cell o-grid__cell--width-30">
+							  <div class="o-grid__cell o-grid__cell--width-30 o-grid__cell--width-33@small">
 
 							   <div class="c-card c-card--higher c-card--primary">
 							 <div class="c-card__content c-card__content--divider">
@@ -176,8 +176,8 @@ All Rights Reserved
 	
 
 					
-<div class="o-grid">
-	<div class="o-grid__cell o-grid__cell--width-70">
+<div class="o-grid o-grid--wrap o-grid--demo">
+	<div class="o-grid__cell o-grid__cell--width-70 o-grid__cell--width-33@small">
 
 	<h3 class="c-heading c-heading--large">Call of Duty: Black Ops III</h3>
 
@@ -187,7 +187,7 @@ All Rights Reserved
 
 	<p>Announced on April 26, 2015, the game is the first Call of Duty video game released after Activision parted with Microsoft Studios and partnered with Sony Computer Entertainment, which secured the timed exclusivity of the game's downloadable content. Upon release, the game received positive reviews from critics, with critics praising the gameplay, Zombie mode, and content. However, it was criticized for its story and its lack of innovation. It was a commercial success, with it becoming the top-selling retail game in the US in 2015, and one of the most successful titles released for the eighth generation of video game consoles.</p>
 </div>
-<div class="o-grid__cell o-grid__cell--width-30">
+<div class="o-grid__cell o-grid__cell--width-30 o-grid__cell--width-33@small">
 	<div class="c-card c-card--higher c-card--primary">
 	<div class="c-card__content c-card__content--divider"> Spectre <a class="c-link"  href="http://vignette3.wikia.nocookie.net/callofduty/images/9/93/Spectre_menu_icon_BO3.png/revision/latest?cb=20160205173627"> Source</a></div>
 	<figure>
@@ -196,8 +196,8 @@ All Rights Reserved
 	</div>
 </div>
 </div>
-<div class="o-grid">
-	<div class="o-grid__cell">
+<div class="o-grid o-grid--wrap o-grid--demo">
+	<div class="o-grid__cell o-grid__cell--width-33@small">
 <h4 class="c-heading c-heading--large">Campaign</h4>
 
 <p>The campaign in Black Ops III is designed to support 4-player cooperative gameplay, allowing for bigger, more open level design and less corridor shooting. In addition, the player can customize their character's gender and appearance. The campaign features its own progression system, featuring unlock tokens which must be used to acquire different weapons and gears as they progress through the campaign. The game features a "realistic" difficulty mode, in which players will get defeated if they are hit by one bullet. Finishing all campaign missions will also unlock "Nightmares" mode, where players can replay the entire campaign with a new narrative, as well as zombies replacing most of the normal enemies.</p>

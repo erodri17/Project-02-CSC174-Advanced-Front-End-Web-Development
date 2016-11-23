@@ -28,8 +28,8 @@ All Rights Reserved
     <div class="o-grid o-grid--small-full o-grid--medium-full o-grid--large-full">
 -->
 <!--Article -->	<!-- begin section 1-->		
-<div class="o-grid">
-<div class="o-grid__cell o-grid__cell--width-70">
+<div class="o-grid o-grid--wrap o-grid--demo">
+<div class="o-grid__cell o-grid__cell--width-70 o-grid__cell--width-33@small">
                 
 
 
@@ -37,8 +37,8 @@ All Rights Reserved
     <div class="o-grid o-grid--small-full o-grid--medium-full o-grid--large-full">
 
 <!--Article -->
-				<div class="o-grid">
-                <div class="o-grid__cell o-grid__cell--width-70">
+				<div class="o-grid o-grid--wrap o-grid--demo">
+                <div class="o-grid__cell o-grid__cell--width-70 o-grid__cell--width-33@small">
 
 	<!-- From: https://en.wikipedia.org/wiki/Simulation_video_game -->
 						 <h2 class="c-heading c-heading--xlarge">Simulation video game</h2>
@@ -51,7 +51,7 @@ All Rights Reserved
 
 
 </div>
-<div class="o-grid__cell o-grid__cell--width-30">
+<div class="o-grid__cell o-grid__cell--width-30 o-grid__cell--width-33@small">
 <div class="c-card c-card--higher c-card--primary">
  <div class="c-card__content c-card__content--divider">SimCity. <a class="c-link" href="http://www.whitedoveofhope.org/city-simulation-like-no-other-with-simcity-buildit/"> Source</a></div>
 							 <figure>
@@ -74,8 +74,8 @@ All Rights Reserved
 
 							 
 							 <!--begin section 2-->
-							 <div class="o-grid">
-							 	<div class= "o-grid__cell">
+							 <div class="o-grid o-grid--wrap o-grid--demo">
+							 	<div class= "o-grid__cell o-grid__cell--width-33@small">
 						 <h3 class="c-heading c-heading--large">History</h3>
 						
 							 <p>While many credit simulation games beginning with Will Wright and SimCity in 1989, the true progenitor of the genre was "Fortune Builder", released in 1984 on Colecovision. Certain games such as SimLife and SimEarth were subsequently created and are capable of teaching players the basics of genetics and global ecosystems.</p>	
@@ -99,7 +99,7 @@ All Rights Reserved
 							</div>
 							<!-- end section 2-->
 	
-							<div class="o-grid__cell o-grid__cell--width-70">
+							<div class="o-grid__cell o-grid__cell--width-70 o-grid__cell--width-33@small">
 
 
 							 <p>From three basic types of strategic, planning, and learning exercises: games, simulations, and case studies, a number of hybrids may be considered, including simulation games that are used as case studies.</p>
@@ -138,8 +138,8 @@ All Rights Reserved
 
 <!-- Aside -->
 
-                <div class="o-grid">
-                	<div class="o-grid__cell o-grid__cell--width-70">
+                <div class="o-grid o-grid--wrap o-grid--demo">
+                	<div class="o-grid__cell o-grid__cell--width-70 o-grid__cell--width-33@small">
 				<!-- begin section 3-->
 							<!--From: https://en.wikipedia.org/wiki/Take_on_Helicopters -->
 				             <p><em>Take on Helicopters</em></p> 
@@ -149,7 +149,7 @@ All Rights Reserved
 
 							 <p>In the summer of 2013, former U.S. Army helicopter pilot and war veteran, Joe Larkin, and his younger brother, Tom Larkin, take over their Seattle-based family business, civil aviation provider, Larkin Aviation, after the death of their father, who was also the owner. Only mere weeks away from closure, the Larkin brothers face an uncertain future in a struggling economy. Trying to save what their father has built, they decide to take on contracts, and competitors.</p>	
 
-                <aside class="o-grid__cell">
+                <aside class="o-grid__cell o-grid__cell--width-70 o-grid__cell--width-33@small">
 
 							<!--From: https://en.wikipedia.org/wiki/Take_on_Helicopters -->
 				             <p><em>Take on Helicopters</em></p>
@@ -159,7 +159,7 @@ All Rights Reserved
 							 <p>Take On Helicopters is primarily a civil aviation video game focused on rotary-wing aircraft, featuring three different classes of helicopters: light, medium, and heavy. In addition to the career, the game includes challenges, time trials, training, a mission editor, free flight, and multiplayer.</p>	
 					</div>
 
-<div class="o-grid__cell o-grid__cell--width-30">
+<div class="o-grid__cell o-grid__cell--width-30 o-grid__cell--width-33@small">
 <div class="c-card c-card--higher c-card--primary">
  <div class="c-card__content c-card__content--divider">Take on Helicopters. <a class="c-link" href="http://acknowledgetransmission.com/screenshot/take-on-helicopters-screenshots/"> Source</a></div>
 							 <figure>
@@ -173,8 +173,8 @@ All Rights Reserved
 							 <!--end section 3-->
 							
 							 <!-- begin section 4-->
-							<div class= "o-grid">
-								<div class= "o-grid__cell o-grid__cell--width-70">
+							<div class= "o-grid o-grid--wrap o-grid--demo">
+								<div class= "o-grid__cell o-grid__cell--width-70 o-grid__cell--width-33@small">
 
 
 							 <p>The campaign takes place primarily in the then-future of 2013, on a 3,800 square kilometer section of Seattle, Washington and its surrounding metropolitan area. In the campaign mode, the player takes on the role of a civilian helicopter pilot, Tom Larkin, whose civil aviation business is struggling through hard times. The campaign involves different types of contracts which the player earns money, which can be used to buy, repair, and upgrade helicopters. The campaign also features flashback missions, where the player takes on the role of Larkin's older brother, Joe Larkin, during his military service as a U.S. Army helicopter pilot during a 2012 war in Takistan, the fictional country that was the setting of Bohemia Interactive's 2010 video game, ARMA 2: Operation Arrowhead.</p>
@@ -199,7 +199,7 @@ All Rights Reserved
 
 							 <p>The user interface, which was inspired by Google Maps and infographics, was designed to convey information to the player more clearly than in previous SimCity games. Animations and color-coded visual cues that represent how efficiently a city functions are only presented when needed at any given moment. For instance, opening up the water tower instantly changes the landscape to a clear world where the density of water is recognizable. Or clicking on the sewage tab will immediately show how the waste of the citizens is flowing, and where the system is over capacity. Some of the other visualized data include air pollution, power distribution, police coverage, and zones.</p>
                				</div>
-               <div class="o-grid__cell o-grid__cell--width-30">
+               <div class="o-grid__cell o-grid__cell--width-30 o-grid__cell--width-33@small">
 							 <div class="c-card c-card--higher c-card--primary">
  <div class="c-card__content c-card__content--divider">Airport41. <a class="c-link" href="http://acknowledgetransmission.com/wp-content/uploads/2015/09/Airport41.jpg"> Source</a></div>
 							 <figure>					 
