@@ -20,13 +20,7 @@ All Rights Reserved
 
   <body class="parallax">
 
-    <!-- this class will put article and aside side by side -->
-
-    <!-- this div below fucks everything up--
-    <div class="o-grid o-grid--small-full o-grid--medium-full o-grid--large-full">
-<<<<<<< HEAD
-		
-<!--Article -->				
+<div class="o-container o-container--large">			
                 <div class="o-grid o-grid--wrap o-grid--demo">
 				<div class= "o-grid__cell o-grid__cell--width-70 o-grid__cell--width-33@small">
 	<!-- From: https://en.wikipedia.org/wiki/Action_game -->
@@ -39,20 +33,16 @@ All Rights Reserved
 
 
 <!--Article -->
-                <article class="o-grid__cell o-grid__cell--width-33@small">
 
 
 	<!-- From: https://en.wikipedia.org/wiki/Action_game -->
-						<!-- <h2 class="c-heading c-heading--xlarge">Action Video Games</h2>
-
-							 <p>The action game is a video game genre that emphasizes physical challenges, including hand–eye coordination and reaction-time. The genre includes diverse subgenres such as fighting games, shooter games and platform games which are widely considered the most important action games, though some real-time strategy games are also considered to be action games.</p>
--->
+								<figure>
+						          	<img class="o-image" src="images/borg.jpg" alt="Video game character">
+						    	 </figure>
 							 <div class="c-card c-card--higher c-card--primary">
 							 <div class="c-card__content c-card__content--divider">	An action video game character. <a class="c-link" href="http://picphotos.net/wallpapers-video-games/"> Source</a></div>
 
-							 	<figure>
-						          	<img class="o-image" src="images/borg.jpg" alt="Video game character">
-						    	 </figure>
+							 	
 						 	</div>
 <!--<<<<<< HEAD-->
 						 </div>
@@ -211,18 +201,14 @@ All Rights Reserved
 <p>Zombies features a new XP progression system, which allows players to unlock items in a similar fashion to multiplayer and campaign. Unlockable items include "Gobblegums", which grant players with temporary bonuses, and weapon kits that allow players to modify the appearance of the guns in each game. Shadows of Evil was revealed as a new map for the Zombies mode on July 9, 2015 at San Diego Comic-Con International 2015. The map features four brand new characters: Nero the Magician, Jessica the Femme Fatale, Vincent the Cop and Campbell the Boxer as the main cast, and takes place in a new setting called Morg City. "The Giant" includes the original characters, Tank Dempsey, Edward Richtofen, Nikolai Belinski and Takeo Masaki. These characters return from the Black Ops II map "Origins", in their alternate timeline versions. They reappear in the DLC maps "The Giant", "Der Eisendrache", "Zetsubou no Shima", "Gorod Krovi" and "Revelations".</p>
 
 							 
- <!--</aside>-->
+ 
 </div>
 
  </div> <!--blaze css grid-->
-
- <!--Topical footer -->				
-
-
- </aside>
+			
 
  </div> <!--blaze css grid-->
-
+</div><!--End: <div class="o-container o-container--large"> -->
 
 <!--Topical footer -->
 

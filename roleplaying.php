@@ -23,19 +23,11 @@ All Rights Reserved
   <body class="parallax">
 
 
-    <!-- this class will put article and aside side by side -->
-    <!--<div class="o-grid o-grid--small-full o-grid--medium-full o-grid--large-full">
 
-<<<<<<< HEAD
 		
-<!--Article -->	
+<div class="o-container o-container--large">
 				<div class="o-grid o-grid--wrap o-grid--demo">			
                 <div class="o-grid__cell o-grid__cell--width-70 o-grid__cell--width-33@small">
-=======
-
-<!--Article -->
-                <article class="o-grid__cell">
-
 
 
 	<!-- From: https://en.wikipedia.org/wiki/Video_game -->
@@ -124,11 +116,11 @@ All Rights Reserved
 			    </article>
 
 <!-- Aside -->
-                <aside class="o-grid__cell o-grid__cell--width-33@small">
+                <aside class="o-grid__cell ">
 
 							<!--From: https://en.wikipedia.org/wiki/World_of_Warcraft  -->
-				             <div class="o-grid">
-				             	<div class= "o-grid__cell o-grid__cell--width-70">
+				             <div class="o-grid o-grid--wrap o-grid--demo ">
+				             	<div class= "o-grid__cell o-grid__cell--width-70 o-grid__cell--width-33@small">
 				             <p><em>World of Warcraft</em></p>
 
 							 <p>World of Warcraft (WoW) is a massively multiplayer online role-playing game (MMORPG) released in 2004 by Blizzard Entertainment. It is the fourth released game set in the fantasy Warcraft universe, which was first introduced by Warcraft: Orcs & Humans in 1994. World of Warcraft takes place within the Warcraft world of Azeroth, approximately four years after the events at the conclusion of Blizzard's previous Warcraft release, Warcraft III: The Frozen Throne. Blizzard Entertainment announced World of Warcraft on September 2, 2001. The game was released on November 23, 2004, on the 10th anniversary of the Warcraft franchise.</p>
@@ -189,7 +181,7 @@ All Rights Reserved
 
                             </div> <!--blaze css grid-->
 
-
+</div> <!--<div class="o-container o-container--large">-->
 <!--Topical footer -->
                 <footer>
 

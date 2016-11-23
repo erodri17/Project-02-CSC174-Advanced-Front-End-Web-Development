@@ -40,7 +40,7 @@ All Rights Reserved
 <a href="#" class="next">Next</a>
 <a href="#" class="prev">Previous</a>
 </nav>
-</div>->
+</div>
 <!--End: Picture slider goes here-->
 <!---End: Image Slider->
 
@@ -80,7 +80,7 @@ console.log('Started')
 
 
 <div class="o-container o-container--large">
-<!--Block: About Video Games-->
+
 <div class="o-grid o-grid--wrap o-grid--demo">
 <div class= "o-grid__cell o-grid__cell--width-70 o-grid__cell--width-33@small">
 
@@ -278,6 +278,7 @@ console.log('Started')
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/hh9x4NqW0Dw" allowfullscreen></iframe>
 		-->
 <!--End-Block: Can playing video game make you smarter?-->
+</div><!--End: <div class="o-container o-container--large"> -->
 </body><!---End: body-->
 
 <!--Footer-->

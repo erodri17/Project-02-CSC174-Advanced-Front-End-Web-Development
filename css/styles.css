@@ -26,10 +26,13 @@ background-color: white;
 opacity: 0.8;
 color: black;
 }
+.o-container{padding-top: 35px;}
 iframe {
 display: block;
 margin: auto;
 }
+
+
 /* The section below has been commented out as it was part of the original code in the "styles.css"
 but is no longer in use. It is kept for future reference, in case any further changes need to be made. */
 
