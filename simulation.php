@@ -27,7 +27,7 @@ All Rights Reserved
    
 <div class="o-container o-container--large">
 				<div class="o-grid o-grid--wrap o-grid--demo">
-                <div class="o-grid__cell o-grid__cell--width-70 o-grid__cell--width-33@small">
+                <div class="o-grid__cell o-grid__cell--width-70 ">
 
 	<!-- From: https://en.wikipedia.org/wiki/Simulation_video_game -->
 						 <h2 class="c-heading c-heading--xlarge">Simulation video game</h2>
@@ -43,7 +43,7 @@ All Rights Reserved
 </div>
 
 
-<div class="o-grid__cell o-grid__cell--width-30 o-grid__cell--width-33@small">
+<div class="o-grid__cell o-grid__cell--width-30">
 	<figure>
 						          <img class="o-image" src="images/simCity.jpg" alt="SimCity screenshot">
 						     </figure>
@@ -65,7 +65,7 @@ All Rights Reserved
 							 
 							 <!--begin section 2-->
 							 <div class="o-grid o-grid--wrap o-grid--demo">
-							 	<div class= "o-grid__cell--width-70 o-grid__cell--width-33@small">
+							 	<div class= "o-grid__cell--width-70">
 						 <h3 class="c-heading c-heading--large">History</h3>
 						
 							 <p>While many credit simulation games beginning with Will Wright and SimCity in 1989, the true progenitor of the genre was "Fortune Builder", released in 1984 on Colecovision. Certain games such as SimLife and SimEarth were subsequently created and are capable of teaching players the basics of genetics and global ecosystems.</p>	
@@ -89,7 +89,7 @@ All Rights Reserved
 
 						</div>
 							
-							 <div class="o-grid__cell o-grid__cell--width-30 o-grid__cell--width-33@small">
+							 <div class="o-grid__cell o-grid__cell--width-30">
 							 <div class="c-card c-card--higher c-card--primary">
  							 <div class="c-card__content c-card__content--divider">Airport41. <a class="c-link" href="http://acknowledgetransmission.com/wp-content/uploads/2015/09/Airport41.jpg"> Source</a></div>
 							 <figure>
@@ -105,7 +105,7 @@ All Rights Reserved
 <!-- Aside -->
 
                 <div class="o-grid o-grid--wrap o-grid--demo">
-                	<div class="o-grid__cell o-grid__cell--width-70 o-grid__cell--width-33@small">
+                	<div class="o-grid__cell o-grid__cell--width-70 ">
 			
 							<!--From: https://en.wikipedia.org/wiki/Take_on_Helicopters -->
 				             <p><em>Take on Helicopters</em></p> 
@@ -118,7 +118,7 @@ All Rights Reserved
 							</div> 
               
 
-<div class="o-grid__cell o-grid__cell--width-30 o-grid__cell--width-33@small">
+<div class="o-grid__cell o-grid__cell--width-30">
 <div class="c-card c-card--higher c-card--primary">
  <div class="c-card__content c-card__content--divider">Take on Helicopters. <a class="c-link" href="http://acknowledgetransmission.com/screenshot/take-on-helicopters-screenshots/"> Source</a></div>
 							 <figure>
@@ -133,7 +133,7 @@ All Rights Reserved
 							 
 </div>
 				 <div class= "o-grid o-grid--wrap o-grid--demo">
-								<div class= "o-grid__cell o-grid__cell--width-70 o-grid__cell--width-33@small">
+								<div class= "o-grid__cell o-grid__cell--width-70">
 
 							 <p><em>SimCity</em></p>
 
