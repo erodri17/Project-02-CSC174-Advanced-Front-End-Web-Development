@@ -24,18 +24,18 @@ All Rights Reserved
 
 
 
-		
+
 <div class="o-container o-container--large">
-				<div class="o-grid o-grid--wrap o-grid--demo">			
-                <div class="o-grid__cell o-grid__cell--width-70 o-grid__cell--width-33@small">
+				<div class="o-grid o-grid--wrap o-grid--demo">
+                <div class="o-grid__cell o-grid__cell--width-70 o-grid__cell--width-70@small">
 
 
 	<!-- From: https://en.wikipedia.org/wiki/Video_game -->
 						 <h2 class="c-heading c-heading--xlarge">Role Playing Video Game Characteristics</h2>
 
-				
-							 <p>Role-playing video games use much of the same terminology, settings and game mechanics as early pen-and-paper role-playing games such as Dungeons & Dragons. Players control a central game character, or multiple game characters, usually called a party, and attain victory by completing a series of quests or reaching the conclusion of a central storyline. Players explore a game world, while solving puzzles and engaging in tactical combat. A key feature of the genre is that characters grow in power and abilities, and characters are typically designed by the player. RPGs rarely challenge a player's physical coordination or reaction time, with the exception of action role-playing games.</p>	
-							  <p>Role-playing video games typically rely on a highly developed story and setting, which is divided into a number of quests. Players control one or several characters by issuing commands, which are performed by the character at an effectiveness determined by that character's numeric attributes. Often these attributes increase each time a character gains a level, and a character's level goes up each time the player accumulates a certain amount of experience.</p>	
+
+							 <p>Role-playing video games use much of the same terminology, settings and game mechanics as early pen-and-paper role-playing games such as Dungeons & Dragons. Players control a central game character, or multiple game characters, usually called a party, and attain victory by completing a series of quests or reaching the conclusion of a central storyline. Players explore a game world, while solving puzzles and engaging in tactical combat. A key feature of the genre is that characters grow in power and abilities, and characters are typically designed by the player. RPGs rarely challenge a player's physical coordination or reaction time, with the exception of action role-playing games.</p>
+							  <p>Role-playing video games typically rely on a highly developed story and setting, which is divided into a number of quests. Players control one or several characters by issuing commands, which are performed by the character at an effectiveness determined by that character's numeric attributes. Often these attributes increase each time a character gains a level, and a character's level goes up each time the player accumulates a certain amount of experience.</p>
 
 
 							 <p>Role-playing video games use much of the same terminology, settings and game mechanics as early pen-and-paper role-playing games such as Dungeons & Dragons. Players control a central game character, or multiple game characters, usually called a party, and attain victory by completing a series of quests or reaching the conclusion of a central storyline. Players explore a game world, while solving puzzles and engaging in tactical combat. A key feature of the genre is that characters grow in power and abilities, and characters are typically designed by the player. RPGs rarely challenge a player's physical coordination or reaction time, with the exception of action role-playing games.</p>
@@ -43,7 +43,7 @@ All Rights Reserved
 
 							 <p>Role-playing video games also typically attempt to offer more complex and dynamic character interaction than what is found in other video game genres. This usually involves additional focus on the artificial intelligence and scripted behavior of computer-controlled non-player characters.</p>
 							 </div>
-						<div class="o-grid__cell o-grid__cell--width-30 o-grid__cell--width-33@small">	 
+						<div class="o-grid__cell o-grid__cell--width-30 o-grid__cell--width-30@small">
 						<div class="c-card c-card--higher c-card--primary">
  						<div class="c-card__content c-card__content--divider">Role-Playing Game. <a class="c-link" href="http://www.blogcdn.com/www.joystiq.com/media/2012/04/suikodenheader-1334261958.jpg"> Source</a></div>
 							 <figure>
@@ -53,11 +53,11 @@ All Rights Reserved
 
 						</div>
 						</div>
-								
-						<div class="o-grid o-grid--wrap o-grid--demo">
-						<div class="o-grid__cell o-grid__cell--width-70 o-grid__cell--width-33@small">
-							 
 
+						<div class="o-grid o-grid--wrap o-grid--demo">
+						<div class="o-grid__cell o-grid__cell--width-70 o-grid__cell--width-70@small">
+
+<h3 class="c-heading c-heading--large">Character actions and abilities</h3>
 							 <p>Role-playing video games typically rely on a highly developed story and setting, which is divided into a number of quests. Players control one or several characters by issuing commands, which are performed by the character at an effectiveness determined by that character's numeric attributes. Often these attributes increase each time a character gains a level, and a character's level goes up each time the player accumulates a certain amount of experience.</p>
 
 							 <p>Role-playing video games also typically attempt to offer more complex and dynamic character interaction than what is found in other video game genres. This usually involves additional focus on the artificial intelligence and scripted behavior of computer-controlled non-player characters.</p>
@@ -83,29 +83,29 @@ All Rights Reserved
 							 <p>Players can find loot (such as clothing, weapons, and armor) throughout the game world and collect it. Players can trade items for currency and better equipment. Trade takes place while interacting with certain friendly non-player characters, such as shopkeepers, and often uses a specialized trading screen. Purchased items go into the player's inventory. Some games turn inventory management into a logistical challenge by limiting the size of the player's inventory, thus forcing the player to decide what they must carry at the time. This can be done by limiting the maximum weight that a player can carry, by employing a system of arranging items in a virtual space, or by simply limiting the number of items that can be held.</p>
 
 							  <p>Most of the actions in an RPG are performed indirectly, with the player selecting an action and the character performing it by their own accord. Success at that action depends on the character's numeric attributes. Role-playing video games often simulate die-rolling mechanics from non-electronic role-playing games to determine success or failure. As a character's attributes improve, their chances of succeeding at a particular action will increase.</p>
-	
+
 					<!--	<h3 class="c-heading c-heading--large">Character actions and abilities</h3> -->
 						</div>
-					<div class="o-grid__cell o-grid__cell--width-30 o-grid__cell--width-33@small">	
+					<div class="o-grid__cell o-grid__cell--width-30 o-grid__cell--width-30@small">
 
 
-						<h3 class="c-heading c-heading--large">Character actions and abilities</h3>
+
 
 
 					<div class="c-card c-card--higher c-card--primary">
  					<div class="c-card__content c-card__content--divider">Scourge Character Information. <a class="c-link" href="https://en.wikipedia.org/wiki/File:Scourge_character_information.png"> Source</a></div>
 							 <figure>
 						          <img class="o-image" src="images/scourge.png" alt="Scourge character information">
-						     </figure>	
-						    </div>		
+						     </figure>
+						    </div>
 						</div>
-					</div>		
-	
+					</div>
+
 			 <!--   </article>
-				        
+
 <!-- Aside -->
                <!-- <aside class="o-grid__cell">
-							
+
 =======
 						     </figure>
 						    </div>
@@ -116,16 +116,15 @@ All Rights Reserved
 			    </article>
 
 <!-- Aside -->
-                <aside class="o-grid__cell ">
+              <div class="o-grid o-grid--wrap o-grid--demo">
+						<div class="o-grid__cell o-grid__cell--width-70 o-grid__cell--width-70@small">
 
-							<!--From: https://en.wikipedia.org/wiki/World_of_Warcraft  -->
-				             <div class="o-grid o-grid--wrap o-grid--demo ">
-				             	<div class= "o-grid__cell o-grid__cell--width-70 o-grid__cell--width-33@small">
-				             <p><em>World of Warcraft</em></p>
+<h3 class="c-heading c-heading--large"><em>World of Warcarft</em></h3>
+
 
 							 <p>World of Warcraft (WoW) is a massively multiplayer online role-playing game (MMORPG) released in 2004 by Blizzard Entertainment. It is the fourth released game set in the fantasy Warcraft universe, which was first introduced by Warcraft: Orcs & Humans in 1994. World of Warcraft takes place within the Warcraft world of Azeroth, approximately four years after the events at the conclusion of Blizzard's previous Warcraft release, Warcraft III: The Frozen Throne. Blizzard Entertainment announced World of Warcraft on September 2, 2001. The game was released on November 23, 2004, on the 10th anniversary of the Warcraft franchise.</p>
 
-							 <p>World of Warcraft is set in the same universe as the Warcraft series of real-time strategy games, and has a similar art direction. World of Warcraft contains elements from fantasy, steampunk, and science fiction: such as gryphons, dragons, and elves; steam-powered automata; zombies, werewolves, and other horror monsters; as well as time travel, spaceships, and alien worlds.</p>	
+							 <p>World of Warcraft is set in the same universe as the Warcraft series of real-time strategy games, and has a similar art direction. World of Warcraft contains elements from fantasy, steampunk, and science fiction: such as gryphons, dragons, and elves; steam-powered automata; zombies, werewolves, and other horror monsters; as well as time travel, spaceships, and alien worlds.</p>
 
 					<div class="c-card c-card--higher c-card--primary">
  					<div class="c-card__content c-card__content--divider">World of Warcraft. <a class="c-link" href="https://en.wikipedia.org/wiki/File:Scourge_character_information.png"> Source</a></div>
@@ -144,20 +143,21 @@ All Rights Reserved
 							 <p>Much of World of Warcraft play involves the completion of quests. These quests, also called "tasks" or "missions", are usually available from NPCs. Quests usually reward the player with some combination of experience points, items, and in-game money. Quests allow characters to gain access to new skills and abilities, and explore new areas. It is through quests that much of the game's story is told, both through the quest's text and through scripted NPC actions. Quests are linked by a common theme, with each consecutive quest triggered by the completion of the previous, forming a quest chain. Quests commonly involve killing a number of creatures, gathering a certain number of resources, finding a difficult to locate object, speaking to various NPCs, visiting specific locations, interacting with objects in the world, or delivering an item from one place to another to acquire experience and treasures.</p>
 							</div>
 
-							 <div class="o-grid__cell o-grid__cell--width 30 o-grid__cell--width-33@small">
+							 <div class="o-grid__cell o-grid__cell--width 30 o-grid__cell--width-30@small">
 					<div class="c-card c-card--higher c-card--primary">
  					<div class="c-card__content c-card__content--divider">World of Warcraft. <a class="c-link" href="https://en.wikipedia.org/wiki/File:Scourge_character_information.png"> Source</a></div>
-							 <figure>					 
+							 <figure>
 						          <img src="images/worldOfWarCraft.jpg" alt="World of War Craft">
-						     </figure>			
-						    </div>				 
+						     </figure>
+						    </div>
 							 </div>
-							</div> 
-							 
-							 <div class= "o-grid o-grid--wrap o-grid--demo">
-							 	<div class= "o-grid__cell o-grid__cell--width-70 o-grid__cell--width-33@small">
+							</div>
 
-							  <p><em>Baldur's Gate</em></p>
+							<div class="o-grid o-grid--wrap o-grid--demo" >
+						<div class="o-grid__cell o-grid__cell--width-70 o-grid__cell--width-70@small" style="margin-top:20px;">
+						<h3 class="c-heading c-heading--large"><em>Baldur's Gate</em><em>
+							 <p></em></h3>
+
 
 							 <p>Baldur's Gate takes place in the fictional world of Ed Greenwood's Forgotten Realms setting. The mechanics of the gameplay were coded to conform to the Advanced Dungeons & Dragons 2nd edition role-playing rules, though various elements from the ruleset were modified to allow the game to be executed in pausable real-time mode. Hence, although each character is in constant action, the game allows the player to pause the activity at any time, or set the game to automatically pause at preset points in combat. The game features a top-down isometric perspective and real-time third-person combat system on pre-rendered backgrounds. It is also possible to script combat behavior for characters, such that they are able to act and respond to changing situations without explicit guidance from the player.</p>
 
@@ -170,12 +170,12 @@ All Rights Reserved
 							 <p>At the beginning of the game, the Sword Coast has entered a difficult time: iron production has virtually halted, with metal products quickly 'rotting', tools and weapons breaking easily as a result (except magical weapons), while bandits scour the countryside seeking iron over any other treasure.[4] Before the game's story begins, the protagonist and friend Imoen had grown up together in Candlekeep,[8] an ancient fortress-turned-library in the rural Sword Coast region south of Baldur's Gate, under the tutelage of their guardian, the mage Gorion, both of whom were brought in as orphans. Gorion, sensing trouble, decides to leave Candlekeep with the protagonist (known as Gorion's Ward), explaining nothing of importance other than to move on; during this time, Gorion's Ward finds himself attacked by a couple of men seeking his death.</p>
 							</div>
 
-							<div class= "o-grid__cell o-grid__cell--width-30 o-grid__cell--width-33@small">
+							<div class= "o-grid__cell o-grid__cell--width-30 o-grid__cell--width-30@small">
 								<figure>
 								  <img class="baldurs" src="images/baldurs.jpg" alt="baldurs gate pic">
 								</figure>
 
-							
+
 							</div>
                 <!--</aside>-->
 
