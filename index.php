@@ -283,17 +283,13 @@ console.log('Started')
 
 <!--Footer-->
 <footer>
-	<div class="o-grid">
-	<h2 class="c-heading c-heading--xlarge">Works Cited</h2>
+<h2 class="c-heading c-heading--xlarge">Works Cited</h2>
 	<ul class="c-list">
 		<li class="c-list__item">"Video Game". Wikipedia. 20 September 2016. Web. 26 September 2016. <a class="c-link" href="https://en.wikipedia.org/wiki/Video_game">https://en.wikipedia.org/wiki/Video_game</a>.</li>
 		<li class="c-list__item">"Can Playing Video Games Make you Smarter?" CBS News. 12 November 2014. Web. 26 September 2016. <a class="c-link" href="http://www.cbsnews.com/news/playing-video-games-could-make-you-smarter/">http://www.cbsnews.com/news/playing-video-games-could-make-you-smarter/</a>.</li>
 		<li class="c-list__item"><a class="c-link" href="https://www.youtube.com/watch?v=irIkbTen53k">https://www.youtube.com/watch?v=irIkbTen53k</a></li>
 		<li class="c-list__item"><a class="c-link" href="https://www.youtube.com/watch?v=l-eMi1xJ2dM">https://www.youtube.com/watch?v=l-eMi1xJ2dM</a></li>
-		<li class="c-list__item"><a class="c-link" href="https://www.youtube.com/watch?v=c7nRTF2SowQ">https://www.youtube.com/watch?v=c7nRTF2SowQ</a></li>
-		<li class="c-list__item"><a class="c-link" href="https://www.youtube.com/watch?v=fTSUgXkfooA">https://www.youtube.com/watch?v=fTSUgXkfooA</a></li>
-		<li class="c-list__item"><a class="c-link" href="https://www.youtube.com/watch?v=2ISYN1AshZY">https://www.youtube.com/watch?v=2ISYN1AshZY</a></li>
-		<li class="c-list__item"><a class="c-link" href="https://www.youtube.com/watch?v=hh9x4NqW0Dw">https://www.youtube.com/watch?v=hh9x4NqW0Dw</a></li>
+
 	</ul>
 </footer>
 <!--End: Footer-->
@@ -302,4 +298,4 @@ console.log('Started')
 <?php include "inc/footer.inc"; ?>
 <!--End: Footer include file-->
 
-</div><!--End:<div class="o-grid">-->
+
