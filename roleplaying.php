@@ -154,7 +154,7 @@ All Rights Reserved
 							</div>
 
 							<div class="o-grid o-grid--wrap o-grid--demo" >
-						<div class="o-grid__cell o-grid__cell--width-70 o-grid__cell--width-70@small" style="margin-top:20px;">
+						<div class="o-grid__cell o-grid__cell--width-70 o-grid__cell--width-70@small"
 						<h3 class="c-heading c-heading--large"><em>Baldur's Gate</em><em>
 							 <p></em></h3>
 
@@ -170,13 +170,7 @@ All Rights Reserved
 							 <p>At the beginning of the game, the Sword Coast has entered a difficult time: iron production has virtually halted, with metal products quickly 'rotting', tools and weapons breaking easily as a result (except magical weapons), while bandits scour the countryside seeking iron over any other treasure.[4] Before the game's story begins, the protagonist and friend Imoen had grown up together in Candlekeep,[8] an ancient fortress-turned-library in the rural Sword Coast region south of Baldur's Gate, under the tutelage of their guardian, the mage Gorion, both of whom were brought in as orphans. Gorion, sensing trouble, decides to leave Candlekeep with the protagonist (known as Gorion's Ward), explaining nothing of importance other than to move on; during this time, Gorion's Ward finds himself attacked by a couple of men seeking his death.</p>
 							</div>
 
-							<div class= "o-grid__cell o-grid__cell--width-30 o-grid__cell--width-30@small">
-								<figure>
-								  <img class="baldurs" src="images/baldurs.jpg" alt="baldurs gate pic">
-								</figure>
 
-
-							</div>
                 <!--</aside>-->
 
                             </div> <!--blaze css grid-->
