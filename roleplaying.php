@@ -27,7 +27,7 @@ All Rights Reserved
 		
 <div class="o-container o-container--large">
 				<div class="o-grid o-grid--wrap o-grid--demo">			
-                <div class="o-grid__cell o-grid__cell--width-70 ">
+                <div class="o-grid__cell o-grid__cell--width-70 o-grid__cell--width-33@small">
 
 
 	<!-- From: https://en.wikipedia.org/wiki/Video_game -->
@@ -43,7 +43,7 @@ All Rights Reserved
 
 							 <p>Role-playing video games also typically attempt to offer more complex and dynamic character interaction than what is found in other video game genres. This usually involves additional focus on the artificial intelligence and scripted behavior of computer-controlled non-player characters.</p>
 							 </div>
-						<div class="o-grid__cell o-grid__cell--width-30 ">	 
+						<div class="o-grid__cell o-grid__cell--width-30 o-grid__cell--width-33@small">	 
 						<div class="c-card c-card--higher c-card--primary">
  						<div class="c-card__content c-card__content--divider">Role-Playing Game. <a class="c-link" href="http://www.blogcdn.com/www.joystiq.com/media/2012/04/suikodenheader-1334261958.jpg"> Source</a></div>
 							 <figure>
@@ -55,9 +55,9 @@ All Rights Reserved
 						</div>
 								
 						<div class="o-grid o-grid--wrap o-grid--demo">
-						<div class="o-grid__cell o-grid__cell--width-70 ">
+						<div class="o-grid__cell o-grid__cell--width-70 o-grid__cell--width-33@small">
 							 
-							<h3 class="c-heading c-heading--large">Character actions and abilities</h3>
+
 							 <p>Role-playing video games typically rely on a highly developed story and setting, which is divided into a number of quests. Players control one or several characters by issuing commands, which are performed by the character at an effectiveness determined by that character's numeric attributes. Often these attributes increase each time a character gains a level, and a character's level goes up each time the player accumulates a certain amount of experience.</p>
 
 							 <p>Role-playing video games also typically attempt to offer more complex and dynamic character interaction than what is found in other video game genres. This usually involves additional focus on the artificial intelligence and scripted behavior of computer-controlled non-player characters.</p>
@@ -86,10 +86,10 @@ All Rights Reserved
 	
 					<!--	<h3 class="c-heading c-heading--large">Character actions and abilities</h3> -->
 						</div>
-					<div class="o-grid__cell o-grid__cell--width-30">	
+					<div class="o-grid__cell o-grid__cell--width-30 o-grid__cell--width-33@small">	
 
 
-						
+						<h3 class="c-heading c-heading--large">Character actions and abilities</h3>
 
 
 					<div class="c-card c-card--higher c-card--primary">
@@ -116,23 +116,23 @@ All Rights Reserved
 			    </article>
 
 <!-- Aside -->
-               
+                <aside class="o-grid__cell ">
 
 							<!--From: https://en.wikipedia.org/wiki/World_of_Warcraft  -->
 				             <div class="o-grid o-grid--wrap o-grid--demo ">
-				             	<div class= "o-grid__cell o-grid__cell--width-70">
+				             	<div class= "o-grid__cell o-grid__cell--width-70 o-grid__cell--width-33@small">
 				             <p><em>World of Warcraft</em></p>
 
 							 <p>World of Warcraft (WoW) is a massively multiplayer online role-playing game (MMORPG) released in 2004 by Blizzard Entertainment. It is the fourth released game set in the fantasy Warcraft universe, which was first introduced by Warcraft: Orcs & Humans in 1994. World of Warcraft takes place within the Warcraft world of Azeroth, approximately four years after the events at the conclusion of Blizzard's previous Warcraft release, Warcraft III: The Frozen Throne. Blizzard Entertainment announced World of Warcraft on September 2, 2001. The game was released on November 23, 2004, on the 10th anniversary of the Warcraft franchise.</p>
 
 							 <p>World of Warcraft is set in the same universe as the Warcraft series of real-time strategy games, and has a similar art direction. World of Warcraft contains elements from fantasy, steampunk, and science fiction: such as gryphons, dragons, and elves; steam-powered automata; zombies, werewolves, and other horror monsters; as well as time travel, spaceships, and alien worlds.</p>	
 
-					<!-- <div class="c-card c-card--higher c-card--primary">
+					<div class="c-card c-card--higher c-card--primary">
  					<div class="c-card__content c-card__content--divider">World of Warcraft. <a class="c-link" href="https://en.wikipedia.org/wiki/File:Scourge_character_information.png"> Source</a></div>
 							 <!-- <figure>
 						          <img src="images/worldOfWarCraft.jpg" alt="World of War Craft">
-						     </figure> --> 
-						    <!-- </div> -->
+						     </figure> -->
+						    </div>
 
 
 							 <p>World of Warcraft is set in the same universe as the Warcraft series of real-time strategy games, and has a similar art direction. World of Warcraft contains elements from fantasy, steampunk, and science fiction: such as gryphons, dragons, and elves; steam-powered automata; zombies, werewolves, and other horror monsters; as well as time travel, spaceships, and alien worlds.</p>
@@ -144,18 +144,18 @@ All Rights Reserved
 							 <p>Much of World of Warcraft play involves the completion of quests. These quests, also called "tasks" or "missions", are usually available from NPCs. Quests usually reward the player with some combination of experience points, items, and in-game money. Quests allow characters to gain access to new skills and abilities, and explore new areas. It is through quests that much of the game's story is told, both through the quest's text and through scripted NPC actions. Quests are linked by a common theme, with each consecutive quest triggered by the completion of the previous, forming a quest chain. Quests commonly involve killing a number of creatures, gathering a certain number of resources, finding a difficult to locate object, speaking to various NPCs, visiting specific locations, interacting with objects in the world, or delivering an item from one place to another to acquire experience and treasures.</p>
 							</div>
 
-							 <div class="o-grid__cell o-grid__cell--width 30">
+							 <div class="o-grid__cell o-grid__cell--width 30 o-grid__cell--width-33@small">
 					<div class="c-card c-card--higher c-card--primary">
  					<div class="c-card__content c-card__content--divider">World of Warcraft. <a class="c-link" href="https://en.wikipedia.org/wiki/File:Scourge_character_information.png"> Source</a></div>
 							 <figure>					 
-						          <img class="o-image" src="images/worldOfWarCraft.jpg" alt="World of War Craft">
+						          <img src="images/worldOfWarCraft.jpg" alt="World of War Craft">
 						     </figure>			
 						    </div>				 
 							 </div>
 							</div> 
 							 
 							 <div class= "o-grid o-grid--wrap o-grid--demo">
-							 	<div class= "o-grid__cell o-grid__cell--width-70">
+							 	<div class= "o-grid__cell o-grid__cell--width-70 o-grid__cell--width-33@small">
 
 							  <p><em>Baldur's Gate</em></p>
 
@@ -170,9 +170,9 @@ All Rights Reserved
 							 <p>At the beginning of the game, the Sword Coast has entered a difficult time: iron production has virtually halted, with metal products quickly 'rotting', tools and weapons breaking easily as a result (except magical weapons), while bandits scour the countryside seeking iron over any other treasure.[4] Before the game's story begins, the protagonist and friend Imoen had grown up together in Candlekeep,[8] an ancient fortress-turned-library in the rural Sword Coast region south of Baldur's Gate, under the tutelage of their guardian, the mage Gorion, both of whom were brought in as orphans. Gorion, sensing trouble, decides to leave Candlekeep with the protagonist (known as Gorion's Ward), explaining nothing of importance other than to move on; during this time, Gorion's Ward finds himself attacked by a couple of men seeking his death.</p>
 							</div>
 
-							<div class= "o-grid__cell o-grid__cell--width-30">
+							<div class= "o-grid__cell o-grid__cell--width-30 o-grid__cell--width-33@small">
 								<figure>
-								  <img class="o-image" src="images/baldurs.jpg" alt="baldurs gate pic">
+								  <img class="baldurs" src="images/baldurs.jpg" alt="baldurs gate pic">
 								</figure>
 
 							

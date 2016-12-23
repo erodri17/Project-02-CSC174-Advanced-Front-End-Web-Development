@@ -17,7 +17,6 @@ color: #cc32d1;
 opacity: 1;
 display: block;
 margin: auto;
-width: 200%;
 }
 .o-grid {
 border: 2px groove #42f4d7;
@@ -25,10 +24,7 @@ border-radius: 15px;
 padding: 10px;
 background-color: white;
 opacity: 0.8;
-width: 200%;
-display: flex;
 color: black;
-
 }
 .o-container{padding-top: 35px;}
 iframe {
@@ -36,11 +32,6 @@ display: block;
 margin: auto;
 }
 
-..
-}
-
-
-figure{width: 200%;}
 
 /* The section below has been commented out as it was part of the original code in the "styles.css"
 but is no longer in use. It is kept for future reference, in case any further changes need to be made. */
