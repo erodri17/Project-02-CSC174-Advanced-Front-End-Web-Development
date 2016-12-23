@@ -19,7 +19,7 @@ All Rights Reserved
 <!--End:Header-->
 
 <!--Link to read Google font used in the CSS "Source Code Pro"-->
-	<link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed|Space+Mono|Ubuntu" rel="stylesheet">
 <!--End: Link to read Google font used in the CSS "Source Code Pro"-->
 
 <!--Navigation -->

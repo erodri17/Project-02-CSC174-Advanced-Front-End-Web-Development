@@ -16,20 +16,23 @@
         <!-- Blaze Css install -->
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/blazecss/latest/blaze.min.css">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/blazecss/latest/blaze.animations.min.css">
+        <!--Link to the google font-->
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed|Space+Mono|Ubuntu" rel="stylesheet">
+        <!--END ink to the google font-->
 
         <script src="js/vendor/modernizr-2.8.3.min.js"></script>
 
         <link rel="stylesheet" href="css/styles.css">
 
     </head>
-   
+
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
 
-        <!-- common header -->      
+        <!-- common header -->
     <header>
     <!--
-        <h1 class="c-heading super c-heading--super">Project 1 -- Video Games</h1>  
-    -->                             
+        <h1 class="c-heading super c-heading--super">Project 1 -- Video Games</h1>
+    -->
     </header>
