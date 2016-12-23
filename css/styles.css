@@ -30,6 +30,9 @@ display: flex;
 color: black;
 
 }
+.o-grid--cell{
+	margin-bottom: 50px;
+}
 .o-container{padding-top: 35px;}
 iframe {
 display: block;
